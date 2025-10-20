@@ -4,7 +4,7 @@ Meu nome é Cauã Mateus Seja bem vindo ao meu perfil Pessoal que veio atrás do
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zCaua&show_icons=true&theme=dark&card_width=500&hide_border=true&height=180)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zCaua&layout=compact&theme=dark&card_width=500&hide_border=true&height=180)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zCaua&layout=compact&theme=dark&card_width=500&hide_border=true&height=200)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Caua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
