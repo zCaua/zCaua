@@ -1,4 +1,4 @@
-## 🎃 Olá! Seja bem-vindo ao meu Perfil!
+## Olá! Seja bem-vindo ao meu Perfil!
 
 Meu nome é Cauã Mateus e atualmente sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Estadual da Paraíba, fique a vontade para olhar o perfil! 
 
