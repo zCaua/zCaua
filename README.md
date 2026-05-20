@@ -5,9 +5,6 @@ Meu nome é Cauã Mateus e atualmente sou estudante de Análise e Desenvolviment
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zCaua&show_icons=true&theme=dark&card_width=400" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zCaua&layout=compact&langs_count=8&theme=dark&card_width=400" />
-</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Caua-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
